@@ -8,7 +8,7 @@ Našli jste chybu, nebo máte dotaz? Klikněte [sem](https://github.com/VokounAp
 
 Chcete se podívat na předchozí chyby a dotazy? Můžete [tady](https://github.com/VokounApps/manicaParking-Issues/issues?q=is%3Aissue).
 
-### Máte dotaz, který se sem úplně nehodí?
+### Máte dotaz, který se sem úplně nehodí, nebo nemáte účet na GitHubu?
 
 Nevadí, dejte mi vědět na email [info@vokounapps.cz](mailto:info@vokounapps.cz)
 
@@ -20,7 +20,7 @@ Found a bug? Have a question? Click [here](https://github.com/VokounApps/manicaP
 
 Want to see previous bugs and questions? You can do so [here](https://github.com/VokounApps/manicaParking-Issues/issues?q=is%3Aissue).
 
-### Got a private question?
+### Got a private question, or don't have a GitHub account?
 
 Don't worry, let me know on [info@vokounapps.cz](mailto:info@vokounapps.cz)
 
