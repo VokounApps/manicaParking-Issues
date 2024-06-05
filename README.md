@@ -1,4 +1,4 @@
-# manicaParking - Issues
+# manica Parking - Issues
 
 ## 🇨🇿
 
